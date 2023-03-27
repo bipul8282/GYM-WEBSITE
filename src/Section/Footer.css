@@ -1,0 +1,65 @@
+.footersection{
+    display: flex;
+    justify-content: center;   
+    align-items: center;
+    margin-top: 90px;
+ 
+}
+.companyheading{
+    margin-top: -22px;
+    margin-left: 80px;
+}
+.mainfooter{
+background-image: linear-gradient(to left,purple,grey);
+margin-top: 20px;
+border: 2px solid black;
+border-radius: 5px;
+}
+.footercontent{
+    color: white;
+    
+}
+.footercontent1{
+color: white;
+}
+.footercontent2{
+color: white;
+
+}
+ul li{
+    list-style: none;
+}
+.footerend{
+    display: flex;
+    justify-content: center;
+}
+.hrtag{
+    margin-top: 200px;
+}
+.link{
+
+    font-size: 2rem;
+}
+.footerpara{
+    color: white;
+    width: 300px;
+}
+.footerlist{
+    display: flex;
+    flex-direction: column;
+}
+.usefulheading{
+    margin-left: 20px;
+}
+.footerlist li{
+     margin-left: 60px;
+}
+.supportheading{
+    margin-left: 40px;
+}
+.usefulheading{
+    margin-left: 40px;
+}
+.companyheading{
+    margin-left: 40px;
+}

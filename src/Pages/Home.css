@@ -1,0 +1,45 @@
+.home{
+   
+    background-image: url('https://www.muscleandfitness.com/wp-content/uploads/2019/08/Muscular-Bodybuilder-Lifting-Plates.jpg?quality=86&strip=all ');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 96vh;
+   
+}
+.heading{
+    color: white;
+    margin: 0px;
+    width: 500px;
+    padding-top: 200px;
+    padding-left: 30px;
+}
+.mainpagebtn{
+   margin-top: 30px;
+   margin-left: 170px;
+   height: 30px;
+   background-color: red;
+   border-radius: 10px;
+   color: white;
+   /* padding-left:2px; */
+   /* padding-right: 20px; */
+}
+.homelink{
+    color: white;
+    text-decoration: none;
+}
+.mainpagebtn:hover{
+   background-color: rgb(141, 35, 35);
+   cursor: pointer;
+}
+@media (max-width:520px){
+  .home{
+    width:500px;
+    height: 1350px;
+    background-position: center center;
+  }
+  .heading{
+    display: flex;
+    flex-direction: column;
+  }
+
+}

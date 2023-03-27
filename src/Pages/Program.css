@@ -1,0 +1,10 @@
+.programhead{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rebeccapurple;
+}
+.scroll img{
+    height: 50vh;
+    width: 20vh;
+}

@@ -1,0 +1,91 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    color: green;
+    }
+    .mContent{
+        background-color: black;
+        margin-top: -70px;
+        height:600px;
+    }
+.Para{
+    color: white;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-right: 30px;
+    font-weight: bold;
+    font-size: 15px; 
+    text-align: center; 
+    justify-content: center;
+}
+.image-style{
+    
+    display: flex;
+    border-radius: 10px;
+    height: 350px;
+    width: 841px;
+    margin-left:140px;
+    margin-top: 15px;
+    background-color: rgb(65, 60, 60);
+    
+}
+
+img{
+    background-color: antiquewhite;
+    border-color: darkslategrey;
+    border: 15%;
+
+}
+
+.btnmeet{
+margin-left: 550px;
+height: 30px;
+background-image:linear-gradient(grey,red);
+font-weight: bold;
+border-radius: 10px;
+}
+.btnmeet:hover{
+    cursor: pointer;
+}
+.membernamegym{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 100px;
+    padding-right: 200px;
+    
+}
+.teamimage{
+    height: 200px;
+    width:160px;
+    margin-top: -150px;
+
+}
+.teamBG{
+    background-color: rgb(26, 25, 25);
+    background-size: cover;    
+}
+.teampara{
+    color: white;
+    font-weight: bold;
+}
+.teamcont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   flex-direction: column;
+   width: 400px;
+   padding-left: 200px;
+   padding-top: 30px;
+   
+  
+
+}
+.teamhead{
+ color:orangered;
+ font-weight: bold;
+ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-style: italic;
+
+}

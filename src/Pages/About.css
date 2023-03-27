@@ -1,0 +1,102 @@
+.App {
+    font-family: sans-serif;
+    background-image: linear-gradient(to right,rgb(121, 121, 151),rgb(57, 128, 124));
+    background-size: cover; 
+  }
+  .vid{
+    /* margin-top: -450px; */
+    margin-top: -380px;
+  }
+  .vid1{
+    margin-top: -320px;
+  }
+  .video-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+    /* margin-top: 50px; */
+  }
+  .video2 {
+    left: 0;
+    top: 0;
+    height: 40%;
+    width: 15%;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 50px;
+    
+  }
+  
+  
+  
+  .video1 {
+    left: 0;
+    /* top: 0; */
+    height: 30%;
+    width: 15%;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+  }
+  .Content{
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  margin-left: 500px;
+  /* margin-top: 80px; */
+  /* border: 4px solid grey; */
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom,khaki,violet);
+  font-weight: bold;
+  box-shadow: 0px 0px 5px 5px blueviolet;
+  border: none;
+    
+  }
+  .Content1{
+    display: flex;
+    /* border: 2px solid black; */
+    width: 700px;
+    margin-left: 500px;
+    margin-top: -300px;
+    border-radius: 10px;
+    flex-direction: column;
+    background-image: linear-gradient(to bottom,khaki,violet);
+    font-weight: bold;
+    /* border: 4px solid grey;
+     */ border: none;
+    box-shadow: 0px 0px 5px 5px blueviolet;
+    
+  }
+  .abtheading{
+    margin-left: 300px;
+    color: black;
+    font-weight: bold;
+  }
+  .abtpara{
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(80, 47, 47);;
+    
+  }
+  .aboutbtn{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 15vh;
+    margin-left: 40vh;
+    border: none;
+    cursor: pointer;
+  }
+  .abtcont{
+    color: rgb(80, 47, 47);
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .abthead{
+    display: flex;
+    justify-content: center;
+  }
+  
